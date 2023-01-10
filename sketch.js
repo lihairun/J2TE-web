@@ -78,7 +78,7 @@ function draw() {
 }
 
 function mouseMoved() {
-  maskOffset = 0.3;
+  maskOffset = 0.5;
   maskWidth += maskOffset;
 }
 
